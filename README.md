@@ -1,5 +1,5 @@
-# Lola-s-Website
+# Waves Records Website
 
-Conceptualised and designed by London based graphic and digital designer Meara Withe
+Conceptualised and designed by Boston based graphic and digital designer Conor Ingari
 
-[Lola's Website](https://week-3-lola-s-7.superhi.com/)
+[Waves Records Website](waves-records.superhi.com)
